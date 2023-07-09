@@ -1,5 +1,5 @@
 This is register and login html files
-Origianl project is - [AcidCaos Social Wars](https://github.com/AcidCaos/socialwarriors)
+Origianl project is - [AcidCaos Social Warriors](https://github.com/AcidCaos/socialwarriors)
 1.Upload login.html and play.html to templates folder.
 2.Upload bundle.py & server.py & sessions.py & .env to main folder.
 3.Edit play.html "IP HERE" to ip of server or your own.
